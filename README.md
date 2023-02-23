@@ -1,0 +1,8 @@
+# Solo.jar Library Framework lasted version
+
+1. make directory lib
+2. move or copy file Solo.jar to lib directory
+3. add this line into build.gradle 
+   - implementation fileTree(dir: 'lib', include: ['*.jar'])
+4. refresh gradle
+5. Done
