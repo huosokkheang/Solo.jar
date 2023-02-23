@@ -1,4 +1,5 @@
 # Solo.jar Library Framework lasted version
+Doc: https://huosokkheang.github.io/Solo-Framework
 
 1. make directory lib
 2. move or copy file Solo.jar to lib directory
